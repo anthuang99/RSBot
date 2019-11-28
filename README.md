@@ -1,0 +1,2 @@
+# RSBot
+Working Scripts
