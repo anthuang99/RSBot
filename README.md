@@ -1,2 +1,2 @@
 # RSBot
-Working Scripts
+Public version of Working scripts
